@@ -1,6 +1,6 @@
 {
   "name": "ps5bot",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ps5bot CLI",
   "private": true,
   "types": "build/types/types.d.ts",
