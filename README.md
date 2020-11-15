@@ -7,13 +7,11 @@ The goal of this project is to auto check and buy a PS5 when a stock is availabl
  1. [Install Node.js](https://nodejs.org/en/)
     1. version should be >12.9
  2. [Install git](https://git-scm.com/)
- 3. download this project
-    1. `git clone https://github.com/VVNoodle/PS5bot`
+ 3. Clone this project
  4. Open up a terminal
- 5. go to project directory `cd /the/project/directory`
- 6. Install `yarn` by running `npm i -g yarn`
- 7. Install dependencies by running `yarn`
- 8. Make CLI callable  
+ 5. Install `yarn` by running `npm i -g yarn`
+ 6. Install dependencies by running `yarn`
+ 7. Make CLI callable  
     `yarn link`  
 
 ## Setup
