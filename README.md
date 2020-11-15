@@ -13,6 +13,7 @@ The goal of this project is to auto check and buy a PS5 when a stock is availabl
  6. Install dependencies by running `yarn`
  7. Make CLI callable  
     `yarn link`  
+ 8. `./bin/ps5bot`
 
 ## Setup
 
