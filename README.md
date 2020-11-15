@@ -1,5 +1,7 @@
 # getme-ps5-bot
 
+The goal of this project is to auto check and buy a PS5 when a stock is available. Nothing else. I just personally wanted to buy a PS5 and hence this project.
+
 ### Installation
 
  1. [Install Node.js](https://nodejs.org/en/)
