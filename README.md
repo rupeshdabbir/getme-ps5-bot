@@ -1,6 +1,6 @@
 # getme-ps5-bot
 
-The goal of this project is to auto check and buy a PS5 when a stock is available. I just personally wanted to buy a PS5 and hence this project. Please don't buy Bulk PS5 and sell them. That's bad!
+The goal of this project is to auto check and buy a PS5 when a stock is available. I just personally wanted to buy a PS5 and hence this project. Don't be a bad sport and use this tool to buy Bulk PS5 and sell them. That's bad.
 
 
 
