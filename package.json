@@ -18,7 +18,8 @@
     "test": "jest",
     "watch": "jest --watch",
     "snapupdate": "jest --updateSnapshot",
-    "coverage": "jest --coverage"
+    "coverage": "jest --coverage",
+    "ps5bot": "./bin/ps5bot"
   },
   "files": [
     "tsconfig.json",
