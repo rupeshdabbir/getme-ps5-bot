@@ -1,8 +1,7 @@
 # getme-ps5-bot
 
-The goal of this project is to auto check and buy a PS5 when a stock is available. I just personally wanted to buy a PS5 and hence this project. Don't be a bad sport and use this tool to buy Bulk PS5 and sell them. That's bad.
-
-
+- The goal of this project is to auto check and buy a PS5 when a stock is available. 
+- I just personally wanted to buy a PS5 and hence this project. Don't be a bad sport and use this tool to buy Bulk PS5 and sell them. That's bad.
 
 ### Installation
 
@@ -15,13 +14,13 @@ The goal of this project is to auto check and buy a PS5 when a stock is availabl
  6. Install dependencies by running `yarn`
  7. Make CLI callable  
     `yarn link`  
- 8. Run PS5 executable via: `./bin/ps5bot` 
+ 8. Run PS5 executable via: `./bin/ps5bot`  (This will prompt you to fill in info. Note that everything is saved on your computer)
 
 ## Setup
 
  1. Run ps5bot. You'll be prompted to fill in required checkout info  
     `ps5bot`  
-    **Note: Below steps are still TODO**  
  2. Run scraper
     `ps5bot scrape`
     - you will be asked to select the sites to run the bot. If you don't select anything, it will try to run on all websites.
+
